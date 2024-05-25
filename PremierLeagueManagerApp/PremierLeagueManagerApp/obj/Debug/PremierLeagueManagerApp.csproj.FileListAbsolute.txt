@@ -1,0 +1,10 @@
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.csproj.AssemblyReference.cache
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.Form1.resources
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.Properties.Resources.resources
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.csproj.GenerateResource.cache
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\bin\Debug\PremierLeagueManagerApp.exe.config
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\bin\Debug\PremierLeagueManagerApp.exe
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\bin\Debug\PremierLeagueManagerApp.pdb
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.exe
+C:\Users\Farid\source\repos\PremierLeagueManagerApp\PremierLeagueManagerApp\obj\Debug\PremierLeagueManagerApp.pdb
